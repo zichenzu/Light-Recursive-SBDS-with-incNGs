@@ -5,7 +5,7 @@ This is the implementation of the method LReSBDS using the incNGs global constra
 
 Please use Gecode Solver 4.2.0 to run these files.
 
-Put LReSBDS folder into gecode folder and queens_lresbds.cpp file into example folder.
+Put incNGs folder into gecode folder and queens_lresbds_incNGs.cpp file into example folder.
 
 To run the N-Queens problem (e.g. N=10) using one of the symmetry breaking methods SBDS/ParSBDS/LReSBDS/LDSB:
 
